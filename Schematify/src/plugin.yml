@@ -1,0 +1,9 @@
+name: Schematify
+version: 1.0
+main: me.AstramG.Schematify.Schematify
+author: AstramG
+depend: [WorldEdit]
+commands:
+  schem:
+    usage: /schem <url>
+    description: Loads the schematic
